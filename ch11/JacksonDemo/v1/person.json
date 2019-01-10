@@ -1,0 +1,23 @@
+{
+   "firstName": "John",
+   "lastName": "Doe",
+   "age": 42,
+   "address":
+   {
+      "street": "400 Some Street",
+      "city": "Beverly Hills",
+      "state": "CA",
+      "zipcode": 90210
+   },
+   "phoneNumbers":
+   [
+      {
+         "type": "home",
+         "number": "310 555-1234"
+      },
+      {
+         "type": "fax",
+         "number": "310 555-4567"
+      }
+   ]
+}

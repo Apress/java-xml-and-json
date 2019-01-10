@@ -1,0 +1,42 @@
+[
+   {
+      "isbn": "1234567890",
+      "title": "Sample Book 1",
+      "state": "avail"
+   },
+   {
+      "isbn": "2342340324",
+      "title": "Sample Book 2",
+      "state": "loaned"
+   },
+   {
+      "isbn": "2342069340",
+      "title": "Sample Book 3",
+      "state": "avail"
+   },
+   {
+      "isbn": "5940045033",
+      "title": "Sample Book 4",
+      "state": "avail"
+   },
+   {
+      "isbn": "2394094699",
+      "title": "Sample Book 5",
+      "state": "loaned"
+   },
+   {
+      "isbn": "3566433454",
+      "title": "Sample Book 6",
+      "state": "avail"
+   },
+   {
+      "isbn": "6990349039",
+      "title": "Sample Book 7",
+      "state": "avail"
+   },
+   {
+      "isbn": "5695695690",
+      "title": "Sample Book 8",
+      "state": "avail"
+   }
+]
